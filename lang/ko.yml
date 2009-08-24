@@ -1,0 +1,30 @@
+kanban_title: 간판
+kanban_text_incoming: 들어옴
+kanban_text_backlog: 남은 일
+kanban_text_selected_requests: 선택한 요청
+kanban_text_quick_tasks: 급한 작업
+kanban_text_user: 담당자
+kanban_text_active: 진행중
+kanban_text_testing: 시험중
+kanban_text_finished_requests: 끝난 요청
+kanban_text_general_settings: 일반 설정
+kanban_text_pane_settings: 판 설정
+kanban_text_pane_settings_description: "각각의 판과 연동할 일감 상태를 선택하>십시오. 일감을 판에 끌어다 놓을 때, 연동되는 상태로 업데이트됩니다."
+kanban_text_general_help: "역할과 권한 설정에 따라 일감을 다른 판으로 끌어다 >놓을 수 있습니다."
+kanban_label_incoming_pane: 들어옴
+kanban_label_backlog_pane: 남은 일
+kanban_label_selected-requests_pane: 선택한 요청
+kanban_label_selected_pane: 선택한 요청
+kanban_label_quick-tasks_pane: 급한 작업
+kanban_label_active_pane: 진행중
+kanban_label_testing_pane: 시험중
+kanban_label_finished_pane: 끝난 요청
+kanban_label_limit: 최대 일감 개수
+
+kanban_label_staff_role: 담당자
+kanban_label_incoming_project: Project to use for the Incoming pane
+kanban_text_error_saving: 저장에 실패했습니다. 페이지를 갱신하시고 다시 시도하
+십시오.
+kanban_text_saved: 업데이트된 목록.
+field_state: "상태"
+kanban_text_nothing: "(일감 없음)"
