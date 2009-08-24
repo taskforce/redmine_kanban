@@ -21,7 +21,7 @@ kanban_label_testing_pane: 시험중
 kanban_label_finished_pane: 끝난 요청
 kanban_label_limit: 최대 일감 개수
 
-kanban_label_staff_role: 담당자
+kanban_label_staff_role: 업무를 맡을 역할
 kanban_label_incoming_project: Project to use for the Incoming pane
 kanban_text_error_saving: 저장에 실패했습니다. 페이지를 갱신하시고 다시 시도하
 십시오.
